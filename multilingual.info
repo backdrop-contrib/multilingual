@@ -1,0 +1,4 @@
+type = recipe
+name = Multilingual
+description = Enable multiple language support for your Backdrop site.
+backdrop = 1.x
