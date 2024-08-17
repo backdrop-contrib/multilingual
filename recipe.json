@@ -1,0 +1,21 @@
+{
+    "something": "value",
+    "install": [
+        "language",
+        "locale",
+        "gin"
+    ],
+    "config_set": {
+        "admin_bar.settings": {
+            "position_fixed": 0,
+        },
+        "system.core": {
+            "preprocess_css": 0,
+            "preprocess_js": 0,
+            "error_level": "all",
+            "admin_theme": "gin"
+        }
+    },
+    "config_import": {},
+    "config_clear": {}
+}
